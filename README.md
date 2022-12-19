@@ -1,4 +1,4 @@
-This programer forget to write sth
+This programer forgets to write sth
 
 
 
