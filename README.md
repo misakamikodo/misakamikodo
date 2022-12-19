@@ -1,10 +1,4 @@
-```text
-- 上好的项目，给个star吧。
-                   你这哪是项目，分明是伪码！-
-- 某的项目，货真价实。
-                就是伪码，就是伪码，就是伪码 -
-```
-
+This programer forget to write sth
 
 
 
